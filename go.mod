@@ -1,4 +1,4 @@
-module github.com/guregu/dynamo
+module github.com/abbychau/dynamo
 
 require (
 	github.com/aws/aws-sdk-go v1.19.18
